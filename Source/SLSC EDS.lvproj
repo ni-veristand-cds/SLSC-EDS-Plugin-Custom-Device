@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="17008000">
-	<Property Name="CCSymbols" Type="Str">CD_Version,Default;</Property>
+<Project Type="Project" LVVersion="15008000">
+	<Property Name="CCSymbols" Type="Str">CD_Version,2015_2016;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
@@ -253,10 +253,10 @@
 			<Item Name="NationalInstruments.VeriStand" Type="Document" URL="NationalInstruments.VeriStand">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="SLSC Get EDS Module Information.vi" Type="VI" URL="../SLSC EDS API/SLSC Get EDS Module Information.vi"/>
 			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SLSC Get EDS Module Information.vi" Type="VI" URL="../SLSC EDS API/SLSC Get EDS Module Information.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Configuration Debug" Type="Source Distribution">
