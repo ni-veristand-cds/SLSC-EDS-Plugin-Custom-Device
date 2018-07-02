@@ -6,16 +6,16 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="SLSC Converting Items to Strings.lvtest" Type="TestItem" URL="../SLSC Converting Items to Strings.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SLSC Tree Control.lvlib:SLSC Convert Items - Variant to String.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">8E88236B-FB1D-1009-4EC2-2A6446CBB283</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">72C3F6E0-EA24-FA3E-7CDA-46232FC94343</Property>
 	</Item>
 	<Item Name="SLSCTest Datatype Conversion.lvtest" Type="TestItem" URL="../SLSCTest Datatype Conversion.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SLSC EDS Testing.lvlib:SLSCTest Datatype Conversion.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">80E244EF-4B1B-BFC9-6913-E915381F6BF7</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">BD86EB60-69E0-AF8F-3092-1211BD7B6198</Property>
 	</Item>
 	<Item Name="SLSCTest Datatype Conversion.vi" Type="VI" URL="../SLSCTest Datatype Conversion.vi"/>
 	<Item Name="SLSCTest Parsing Capabilities Files.lvtest" Type="TestItem" URL="../SLSCTest Parsing Capabilities Files.lvtest">
 		<Property Name="utf.test.bind" Type="Str">SLSC EDS Testing.lvlib:SLSCTest Parsing Capabilities Files.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">6BE2D58F-A9B4-E368-5389-61BFB02E35E1</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">9C19E738-C10D-D241-33F3-B7907F3FB80D</Property>
 	</Item>
 	<Item Name="SLSCTest Parsing Capabilities Files.vi" Type="VI" URL="../SLSCTest Parsing Capabilities Files.vi"/>
 	<Item Name="VSTest - Deploy and Run SLSC Module.vi" Type="VI" URL="../VSTest - Deploy and Run SLSC Module.vi"/>
